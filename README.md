@@ -1,6 +1,6 @@
 # Proyecto Negocio Quisbert
 
-##Estudiante
+## Estudiante
 Quisbert Coaquira Jesús
 
 ### Resolución de Conflicto
